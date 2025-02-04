@@ -81,23 +81,4 @@ body {
             transform: translate(0, 700px); 
         }
     }
-}.abdullo{
-    font-size: 50px;
-    background-color: darkcyan;
-    animation-name: abdullo;
-    animation-duration: 5s;
-    animation-delay: 10s;
-    text-align: center;
-    vertical-align: middle;
-
-    
-}
-@keyframes abdullo{
-    from{
-        color: darkcyan;
-    }
-    to{
-        color: darkcyan;
-        
-    }
 }
